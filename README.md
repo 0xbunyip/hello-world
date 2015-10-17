@@ -1,5 +1,5 @@
 # hello-world
-Github's tutorial repository. Boom, repository! :boom:
+Boom, repository! :boom:
 
 There are 8 planets in the Solar system:
 1. Mercury
